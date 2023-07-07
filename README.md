@@ -1,1 +1,1 @@
-Chatbot powered by ChatGPT 3.5
+Terminal Chatbot powered by ChatGPT 3.5
